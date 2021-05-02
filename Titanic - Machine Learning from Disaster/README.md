@@ -1,4 +1,4 @@
-## Folder Contents: 
+## Folder Contents:
 ###      1. Titanic - Machine Learning from Disaster (.ipynb)
 <p align = "left">
   <img style="margin: 30px" alt="Python"
