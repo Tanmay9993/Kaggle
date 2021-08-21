@@ -1,6 +1,5 @@
 # Contents:
 
-### 1. Titanic - Machine Learning from Disaster
 <p align = "left">
   <img style="margin: 30px" alt="Python"
     src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&color=yellow" />
@@ -11,3 +10,8 @@
   <img alt="Microsoft Excel" 
      src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   </p>
+  
+### 1. Titanic - Machine Learning from Disaster
+### 2. 
+### 3.
+###
