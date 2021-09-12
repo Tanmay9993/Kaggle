@@ -9,6 +9,8 @@
     src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />    
 <img style="margin: 30px" alt="NumPy"
     src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img style="margin: 30px" alt="SciPy"
+    src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white&color=deepskyblue" />
   <img alt="Microsoft Excel" 
      src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   </p>
