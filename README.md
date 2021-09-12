@@ -14,9 +14,10 @@
   <img alt="Microsoft Excel" 
      src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   </p>
-  
-### 1. Feature Selection - F-score
-### 2. Feature Selection - Pearson Correlation
-### 3. Feature Selection - Variance Threshold
-### 4. Genetic Algorithm for Feature Selection
-### 5. Titanic - Machine Learning from Disaster
+
+### 1. Agglomerative Hierarchical Clustering
+### 2. Feature Selection - F-score
+### 3. Feature Selection - Pearson Correlation
+### 4. Feature Selection - Variance Threshold
+### 5. Genetic Algorithm for Feature Selection
+### 6. Titanic - Machine Learning from Disaster
